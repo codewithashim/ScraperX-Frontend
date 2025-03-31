@@ -60,4 +60,4 @@ You can deploy this project using platforms like Netlify or Vercel. Visit their 
 
 ## I want to use a custom domain - is that possible?
 
-If you want to deploy your project under your own domain, we recommend using Netlify. Visit our docs for more details: [Custom domains](https://github.com/codewithashim/ScraperX-Frontend.git)
+If you want to deploy your project under your own domain, we recommend using Netlify. Visit our docs for more details: [ScraperX](https://scraper-x.vercel.app/)
